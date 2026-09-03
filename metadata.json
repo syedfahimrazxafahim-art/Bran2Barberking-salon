@@ -1,0 +1,6 @@
+{
+  "name": "Bran2Barberking",
+  "description": "Bran2Barberking - Luxury Miami Barbershop & Grooming Lounge featuring master precision haircuts, beard sculpting, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
